@@ -112,8 +112,8 @@ backendDestinations:
       service: srv
 
 namespace: nidhi
-gitusername: TXVya3V0ZU5pZGhp
-gitpassword: Z2hwX1hwWEFuVkpQMVl2elpqYWoxY0hrNWFmRGdHM0UxcDBSMWNIVA==
+gitusername: bi5tdXJrdXRlQHNhcC5jb20=
+gitpassword: Z2hwX3daTlJnMUswRGZxQnoyVFIyVWN4ak1oZFJacGd2bDRVejN0Qg==
 giturl: https://github.com/MurkuteNidhi/btp-s4hana-kyma-business-process-extension.git
 gitbranch: cw45
   
